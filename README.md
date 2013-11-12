@@ -9,6 +9,6 @@ Supported and funded by:
 
 [Arts Council England](http://www.artscouncil.org.uk/)
 
-[Centre For Chinese Contemporary Art, England](http://cfcca.org.uk/)
+[Centre For Chinese Contemporary Art (CFCCA), England](http://cfcca.org.uk/)
 
 [Blue Roof Gallery, China](http://blueroofmuseum.com/)
