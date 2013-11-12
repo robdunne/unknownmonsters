@@ -7,9 +7,8 @@ Further details at [robdunne.com/unknownmonsters](http://robdunne.com/unknownmon
 
 Supported and funded by:
 
-![My image](robdunne.github.com/unknownmonsters/img/artscouncil.png)
+[Arts Council England](http://www.artscouncil.org.uk/)
 
-![My image](robdunne.github.com/unknownmonsters/img/cfcca.png)
+[CFCCA, England](http://cfcca.org.uk/)
 
-![My image](robdunne.github.com/unknownmonsters/img/blueroof.png)
-
+[Blue Roof Gallery, China](http://blueroofmuseum.com/)
