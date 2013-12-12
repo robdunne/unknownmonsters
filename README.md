@@ -1,9 +1,13 @@
 unknownmonsters
 ===============
 
-Hoax tracking application using the socialmention.com API for search data. Part of the Arts Council funded body of work Unknown Monsters: robdunne.com/unknownmonsters
+Hoax tracking application using the socialmention.com API for search data. Part of the Arts Council funded body of work Unknown Monsters
 
-Further details at [robdunne.com/unknownmonsters](http://robdunne.com/unknownmonsters)
+Further details at:
+
+[robdunne.com/unknownmonsters](http://robdunne.com/unknownmonsters)
+
+[cfcca.org.uk/unknown-monsters/](http://cfcca.org.uk/index.php/Exhibition/unknown-monsters/)
 
 ####Supported and funded by:
 
