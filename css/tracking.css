@@ -1,0 +1,134 @@
+* {
+	margin:0;
+	padding:0;
+	color:#eee;
+	font-size:12px;
+	font-family: 'Alef', sans-serif;
+}
+
+html {
+	background:url('../img/bg.png') repeat #333;
+	overflow:hidden;
+	height:100%;
+}
+
+body {
+	overflow:hidden;
+	height:100%;
+}
+
+a {
+	color:#BE2A2A;
+	text-decoration:underline;
+	outline:none;
+	-webkit-transition: all 0.5s ease-in-out;
+	-moz-transition: all 0.5s ease-in-out;
+	-ms-transition: all 0.5s ease-in-out;
+	-o-transition: all 0.5s ease-in-out;
+	transition: all 0.5s ease-in-out;
+}
+
+a:hover {
+	color:#f5003d;
+	text-decoration:underline;
+	-webkit-transition: all 0.5s ease-in-out;
+	-moz-transition: all 0.5s ease-in-out;
+	-ms-transition: all 0.5s ease-in-out;
+	-o-transition: all 0.5s ease-in-out;
+	transition: all 0.5s ease-in-out;
+}
+
+h2 {
+	font-size:20px;
+	margin:0 0 10px;
+	border-bottom: 1px solid #444;
+	padding:0 0 10px;
+}
+
+p {
+	line-height:22px;
+	margin:0 0 10px;
+	color:#ccc;
+}
+
+#header {
+	background: none repeat scroll 0 0 #2C2C2C;
+    height: 25px;
+    margin: 0 auto;
+    padding: 1%;
+    width: 98%;
+}
+
+#graph,
+#map-images {
+	
+}
+
+#graph-mentions {
+	width:60%;
+	height:100%;
+	float: left;
+}
+
+#graph-container {
+	background:#aaa;
+	height:50%;
+}
+
+#graph {
+	height:100%;
+}
+
+#mentions {
+	height:50%;
+}
+
+#y_axis {
+	position: absolute;
+	top: 77px;
+	bottom: 0;
+	width: 40px;
+}
+
+.rickshaw_graph .y_ticks text {
+	color:#eee;
+}
+
+#legend {
+	position:absolute;
+	margin: 20% 0 0 -170px;
+}
+
+#map-images {
+	background:#333;
+	width:40%;
+	height:100%;
+	float: right;
+}
+
+#map,
+#images {
+	width:50%;
+	height: 100%;
+	float: left;
+}
+
+.gm-style-iw div {
+	color:#222;
+}
+
+#images img {
+	height: 100%;
+    width: 100%;
+}
+
+.item { 
+	height: auto;
+    width: 25%;
+}
+
+.loader {
+	width:126px!important;
+	margin:10% auto;
+	display:block;
+}
