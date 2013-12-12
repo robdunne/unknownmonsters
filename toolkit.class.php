@@ -20,6 +20,7 @@ class Toolkit {
 	}
 
 	function connectDB() {
+		// Add your own details here
 		$ra			= $_SERVER['REMOTE_ADDR'];
 		$server 	= 'localhost';
 		$username 	= ($ra == '::1' ? 'root' : 'username');
